@@ -1,66 +1,42 @@
-<div align="center">
+# SYSTEMS for Future
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Systems+for+Future+%F0%9F%9A%80;Building+AI-Powered+SaaS;Founder+%C2%B7+Developer+%C2%B7+Automator" alt="Typing SVG" />
+**Apps für die Zukunft. Durchdachtes Design. Datenschutz und Sicherheit von Anfang an.**
 
-<br/>
+[SYSTEMS](https://architectofscale.com/) entwickelt eigene Apps und digitale Produkte für Unternehmen — von der ersten Idee über die Benutzeroberfläche bis zu KI-Funktionen und den Abläufen dahinter.
 
-**Ich baue digitale Infrastruktur — von AI-Agenten bis SaaS-Produkten.**
+Unser Fokus: nützliche KI, verständliche Bedienung und klare Kontrolle über Daten und Zugriffe.
 
-[![GitHub followers](https://img.shields.io/github/followers/systemsforfuture?style=flat&color=6366f1&labelColor=1e1e2e&label=Followers)](https://github.com/systemsforfuture)
-[![GitHub stars](https://img.shields.io/github/stars/systemsforfuture?style=flat&color=6366f1&labelColor=1e1e2e&label=Stars)](https://github.com/systemsforfuture)
+## Woran wir arbeiten
 
-</div>
+- **Apps & SaaS:** Produkte, die konkrete Aufgaben im Alltag lösen.
+- **KI & Automatisierung:** Assistenten, Voice und Workflows für Unternehmen.
+- **Privacy & Security:** bewusste Datenflüsse, klare Berechtigungen und überprüfbare Änderungen.
+- **Design Engineering:** gute Gestaltung bis ins funktionierende Produkt.
 
----
+**Werkzeuge:** TypeScript · React · Next.js · Supabase · Node.js · Claude · Codex
 
-## 🚀 Eigene Produkte
+## Kuratierte Werkzeuge & Skills
 
-| Projekt | Beschreibung | Stack |
-|---|---|---|
-| [**SYSTEMS**](https://github.com/systemsforfuture/systems-os) | Digitale Infrastruktur-Plattform — Portfolio, Investments & Team Ops | React · Supabase · TS |
-| [**Einfach Gründen**](https://github.com/systemsforfuture/einfach-gr-nden) | KI-gestützte Gründungsplattform für Deutschland | React · Supabase · TS |
-| [**GetMyDeal**](https://github.com/systemsforfuture/getmydeal) | AI-Powered Sales Engine — CRM, Deal Flows & Call Agent | React · Supabase · Stripe |
-| [**Elite Law Studio**](https://github.com/systemsforfuture/elite-law-studio) | AI Website Platform für Anwaltskanzleien | React · TS |
-| [**JARVIS OS**](https://github.com/systemsforfuture/best-claude-setup-) | Autonomer AI-Agenten-Stack auf Claude-Basis | Mastra · Next.js · Tauri |
+Diese Sammlungen bündeln Projekte, die wir für Entwicklung, Design und Unternehmensabläufe interessant finden. Eine Aufnahme ist keine Aussage darüber, dass ein Werkzeug bereits in unseren Produkten eingesetzt wird.
 
----
+| Bereich | Sammlung |
+| --- | --- |
+| UI, UX & Animation | [Designer Skills](https://github.com/stars/systemsforfuture/lists/designer-skills) |
+| Entwicklung & Code-Qualität | [Coding Skills](https://github.com/stars/systemsforfuture/lists/coding-skills) |
+| Entwicklungsumgebung & Agent-Workflows | [Claude & Codex Setup](https://github.com/stars/systemsforfuture/lists/claude-codex-setup) |
+| KI-Agenten, Voice & MCP | [Claude](https://github.com/stars/systemsforfuture/lists/claude) |
+| SEO, GEO & Marketing | [Marketing Skills](https://github.com/stars/systemsforfuture/lists/marketing-skills) |
+| Angebote, Vertrieb & Dokumente | [Sales Skills](https://github.com/stars/systemsforfuture/lists/sales-skills) |
+| Hosting & Infrastruktur | [Cloud & Self-Hosting](https://github.com/stars/systemsforfuture/lists/cloud-self-hosting) |
+| Datenschutz & Anwendungssicherheit | [Privacy & Security](https://github.com/stars/systemsforfuture/lists/privacy-security) |
+| Grundlagen & Experimente | [Research & Learning](https://github.com/stars/systemsforfuture/lists/research-learning) |
 
-## 🛠️ Tech Stack
+## So organisieren wir Zusammenarbeit
 
-<div align="center">
+Eine klare Aufgabe, eine nachvollziehbare Änderung und ein überprüftes Ergebnis. Der [GitHub-Workflow](./WORKFLOW.md) beschreibt den Ablauf von der Idee bis zur Auslieferung.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=3b82f6)
-![React](https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1e1e2e?style=for-the-badge&logo=supabase&logoColor=3ecf8e)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-1e1e2e?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
-![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=node.js&logoColor=86efac)
+Produkt- und Kundenentwicklung findet überwiegend in privaten Repositories statt. Öffentlich teilen wir kuratierte Ressourcen und ausgewählte Einblicke.
 
-</div>
+[**SYSTEMS ansehen →**](https://architectofscale.com/) · [**Alle Sammlungen →**](https://github.com/stars/systemsforfuture)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=systemsforfuture&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366f1&icon_color=6366f1&text_color=cdd6f4&hide=contribs" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=systemsforfuture&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366f1&text_color=cdd6f4&langs_count=6" />
-
-</div>
-
----
-
-## 🤝 Kunden-Projekte
-
-Ich entwickle maßgeschneiderte Webpräsenzen für Anwaltskanzleien und Unternehmen über [**Einfach Gründen**](https://github.com/systemsforfuture/einfach-gr-nden).
-
-> Alle Kundenprojekte sind mit `client-website` getaggt → [Alle anzeigen](https://github.com/systemsforfuture?tab=repositories&q=client-website)
-
----
-
-<div align="center">
-
-**Germany 🇩🇪 · Building in Public · Open to Collaborations**
-
-</div>
+*Building useful apps with thoughtful design, privacy and practical AI.*
