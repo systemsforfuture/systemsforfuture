@@ -2,11 +2,11 @@
 
 **Apps für die Zukunft. Durchdachtes Design. Datenschutz und Sicherheit von Anfang an.**
 
-Ich bin Dom, Gründer von [SYSTEMS](https://architectofscale.com/). Ich entwickle eigene Apps und digitale Produkte für Unternehmen — von der ersten Idee über die Benutzeroberfläche bis zu KI-Funktionen und den Abläufen dahinter.
+[SYSTEMS](https://architectofscale.com/) entwickelt eigene Apps und digitale Produkte für Unternehmen — von der ersten Idee über die Benutzeroberfläche bis zu KI-Funktionen und den Abläufen dahinter.
 
-Mein Fokus: nützliche KI, verständliche Bedienung und klare Kontrolle über Daten und Zugriffe.
+Unser Fokus: nützliche KI, verständliche Bedienung und klare Kontrolle über Daten und Zugriffe.
 
-## Woran ich arbeite
+## Woran wir arbeiten
 
 - **Apps & SaaS:** Produkte, die konkrete Aufgaben im Alltag lösen.
 - **KI & Automatisierung:** Assistenten, Voice und Workflows für Unternehmen.
@@ -17,7 +17,7 @@ Mein Fokus: nützliche KI, verständliche Bedienung und klare Kontrolle über Da
 
 ## Kuratierte Werkzeuge & Skills
 
-Diese Sammlungen bündeln Projekte, die ich für Entwicklung, Design und Unternehmensabläufe interessant finde. Eine Aufnahme ist keine Aussage darüber, dass ein Werkzeug bereits in unseren Produkten eingesetzt wird.
+Diese Sammlungen bündeln Projekte, die wir für Entwicklung, Design und Unternehmensabläufe interessant finde. Eine Aufnahme ist keine Aussage darüber, dass ein Werkzeug bereits in unseren Produkten eingesetzt wird.
 
 | Bereich | Sammlung |
 | --- | --- |
@@ -31,11 +31,11 @@ Diese Sammlungen bündeln Projekte, die ich für Entwicklung, Design und Unterne
 | Datenschutz & Anwendungssicherheit | [Privacy & Security](https://github.com/stars/systemsforfuture/lists/privacy-security) |
 | Grundlagen & Experimente | [Research & Learning](https://github.com/stars/systemsforfuture/lists/research-learning) |
 
-## So möchte ich Zusammenarbeit organisieren
+## So organisieren wir Zusammenarbeit
 
 Eine klare Aufgabe, eine nachvollziehbare Änderung und ein überprüftes Ergebnis. Der [GitHub-Workflow](./WORKFLOW.md) beschreibt den Ablauf von der Idee bis zur Auslieferung.
 
-Produkt- und Kundenentwicklung findet überwiegend in privaten Repositories statt. Öffentlich teile ich kuratierte Ressourcen und ausgewählte Einblicke.
+Produkt- und Kundenentwicklung findet überwiegend in privaten Repositories statt. Öffentlich teilen wir kuratierte Ressourcen und ausgewählte Einblicke.
 
 [**SYSTEMS ansehen →**](https://architectofscale.com/) · [**Alle Sammlungen →**](https://github.com/stars/systemsforfuture)
 
