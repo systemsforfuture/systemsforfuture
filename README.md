@@ -17,7 +17,7 @@ Unser Fokus: nützliche KI, verständliche Bedienung und klare Kontrolle über D
 
 ## Kuratierte Werkzeuge & Skills
 
-Diese Sammlungen bündeln Projekte, die wir für Entwicklung, Design und Unternehmensabläufe interessant finde. Eine Aufnahme ist keine Aussage darüber, dass ein Werkzeug bereits in unseren Produkten eingesetzt wird.
+Diese Sammlungen bündeln Projekte, die wir für Entwicklung, Design und Unternehmensabläufe interessant finden. Eine Aufnahme ist keine Aussage darüber, dass ein Werkzeug bereits in unseren Produkten eingesetzt wird.
 
 | Bereich | Sammlung |
 | --- | --- |
